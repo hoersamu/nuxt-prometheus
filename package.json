@@ -33,7 +33,6 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "prepare": "husky install",
-    "postinstall": "nuxi prepare playground"
   },
   "dependencies": {
     "@mswjs/interceptors": "^0.22.15",
